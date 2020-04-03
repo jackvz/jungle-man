@@ -2,7 +2,7 @@
 
 ![Jungle Man game visual](https://raw.githubusercontent.com/jackvz/jungle-man/master/docs/screenshot.png)
 
-Source code for [this article](https://www.indecorous.tk/blog/create-a-2d-game-for-mobile-desktop-and-the-web/)
+Source code for [this article](https://www.indecorous.online/blog/create-a-2d-game-for-mobile-desktop-and-the-web/)
 
 ## Built With
 
